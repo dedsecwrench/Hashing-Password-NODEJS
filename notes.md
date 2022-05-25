@@ -406,3 +406,8 @@ second step :
     => This function takes three parameter, first is the password that is required to be hashed,
     next is the salt that we generated in last step, and
     third is the callback function which returns the hashed password.
+
+NOTE => ***Now instead of doing it in two different steps, we can also combine these two steps to create hashed password.***
+
+
+
